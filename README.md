@@ -98,4 +98,4 @@ The model predicts a numerical score (e.g., between 0 and 1). This score is then
 
 ### 🙏 Thank You! 🙏
 
-Thank you for exploring the Emotion-Recognition-Deep-Learning project! We hope this tool provides valuable insights into the fascinating world of AI and emotion detection. Your interest and feedback are greatly appreciated.
+Thank you for exploring the Emotion-Recognition-Deep-Learning project! We hope this tool provides valuable insights into the fascinating world of AI and emotion detection. Your interest and feedback are greatly appreciated..
